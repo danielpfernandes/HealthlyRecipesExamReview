@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Healthly Recipes Exam 1 Review</string>
+    <string name="txtRecipeTitle">Bruschetta Recipe</string>
+    <string name="txtIngredientsContent">
+        4 plum tomatoes \n
+        6 basil leaves \n
+        3 garlic cloves \n
+        3tb olive oil
+    </string>
+    <string name="directions">
+        Combine the ingredients and add salt to taste. Top French bread slices with mixture.
+    </string>
+</resources>
